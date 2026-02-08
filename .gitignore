@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Data files
+*.csv
+*.parquet
+*.pkl
+data/
+
+# MLflow
+mlruns/
+mlflow_artifacts/
+mlflow.db
+
+# Notebooks
+*.ipynb
+
+# OS
+.DS_Store
+
+# PDFs
+*.pdf
+
