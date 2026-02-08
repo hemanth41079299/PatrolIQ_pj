@@ -6,3 +6,4 @@ scikit-learn
 matplotlib
 mlflow
 scipy
+gdown==5.2.0
